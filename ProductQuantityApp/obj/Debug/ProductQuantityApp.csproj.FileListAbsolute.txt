@@ -1,0 +1,18 @@
+E:\Mizan\13.05.15\ProductQuantityApp\ProductQuantityApp\bin\Debug\ProductQuantityApp.exe.config
+E:\Mizan\13.05.15\ProductQuantityApp\ProductQuantityApp\obj\Debug\ProductQuantityApp.csprojResolveAssemblyReference.cache
+E:\Mizan\13.05.15\ProductQuantityApp\ProductQuantityApp\obj\Debug\ProductQuantityApp.ProductUI.resources
+E:\Mizan\13.05.15\ProductQuantityApp\ProductQuantityApp\obj\Debug\ProductQuantityApp.Properties.Resources.resources
+E:\Mizan\13.05.15\ProductQuantityApp\ProductQuantityApp\obj\Debug\ProductQuantityApp.csproj.GenerateResource.Cache
+E:\Mizan\13.05.15\ProductQuantityApp\ProductQuantityApp\bin\Debug\ProductQuantityApp.exe
+E:\Mizan\13.05.15\ProductQuantityApp\ProductQuantityApp\bin\Debug\ProductQuantityApp.pdb
+E:\Mizan\13.05.15\ProductQuantityApp\ProductQuantityApp\obj\Debug\ProductQuantityApp.exe
+E:\Mizan\13.05.15\ProductQuantityApp\ProductQuantityApp\obj\Debug\ProductQuantityApp.pdb
+F:\Asp.net (BASIS)\01.Class review\13.05.15\ProductQuantityApp\ProductQuantityApp\bin\Debug\ProductQuantityApp.exe.config
+F:\Asp.net (BASIS)\01.Class review\13.05.15\ProductQuantityApp\ProductQuantityApp\obj\Debug\ProductQuantityApp.exe
+F:\Asp.net (BASIS)\01.Class review\13.05.15\ProductQuantityApp\ProductQuantityApp\bin\Debug\ProductQuantityApp.exe
+F:\Asp.net (BASIS)\01.Class review\13.05.15\ProductQuantityApp\ProductQuantityApp\bin\Debug\ProductQuantityApp.pdb
+F:\Asp.net (BASIS)\01.Class review\13.05.15\ProductQuantityApp\ProductQuantityApp\obj\Debug\ProductQuantityApp.csprojResolveAssemblyReference.cache
+F:\Asp.net (BASIS)\01.Class review\13.05.15\ProductQuantityApp\ProductQuantityApp\obj\Debug\ProductQuantityApp.ProductUI.resources
+F:\Asp.net (BASIS)\01.Class review\13.05.15\ProductQuantityApp\ProductQuantityApp\obj\Debug\ProductQuantityApp.Properties.Resources.resources
+F:\Asp.net (BASIS)\01.Class review\13.05.15\ProductQuantityApp\ProductQuantityApp\obj\Debug\ProductQuantityApp.csproj.GenerateResource.Cache
+F:\Asp.net (BASIS)\01.Class review\13.05.15\ProductQuantityApp\ProductQuantityApp\obj\Debug\ProductQuantityApp.pdb
